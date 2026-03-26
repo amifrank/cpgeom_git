@@ -1,5 +1,5 @@
 # Découverte de GIT
-![Texte alaternatif](/image/Git-logo.svg.png)
+![Texte alaternatif](image/Git-logo.svg.png)
 Prise en main de GIT.
 
 ## Démonstration
