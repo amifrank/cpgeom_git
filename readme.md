@@ -1,6 +1,6 @@
 # Découverte de GIT
-
-Prise en main d eGIT.
+![Texte alaternatif](/image/Git-logo.svg.png)
+Prise en main de GIT.
 
 ## Démonstration
 
